@@ -1,0 +1,45 @@
+*{
+	margin:0px;
+	padding:0px;
+	border:0px;
+}
+
+#wrapper{
+	width:940px;
+	height:642px;
+	background-image:url("xs_login.jpg");
+	margin:20px auto auto auto;
+}
+
+#input1{
+	margin-top:229px;
+	margin-left:546px;
+	width:213px;
+	height:26px;
+	position:absolute;
+	line-height:25px;
+}
+
+#input2{
+	margin-top:270px;
+	margin-left:546px;
+	width:213px;
+	height:26px;
+	position:absolute;
+	line-height:25px;
+}
+
+#input3{
+	position:absolute;
+	margin-top:315px;
+	margin-left:545px;
+}
+
+#bottom h4{
+	font-size:12px;
+	font-family:Arial;
+	color:#545454;
+	position:absolute;
+	margin-top:400px;
+	margin-left:540px;
+}
